@@ -6,7 +6,7 @@
 
 ## How would you implement test automation in a legacy application? Have you ever had to do this?
 ### ANSWER: I would implement automation based on BDD (Behaviour driven development) and TDD (Test Driven Development) of the actual automation code
-### Since legacy applications many change rarely and changes to the requirements. Automation would be made to validate all parts of the system are 
+### Since legacy applications many change rarely and that means less changes to the requirements. Automation would be made to validate all parts of the system are 
 ### operational on a daily or more frequent basis.
 
 ## How would you improve the customer experience of the JUST EAT website?
